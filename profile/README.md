@@ -25,8 +25,8 @@ A solo player born with the name Pedro but known to most of the world as VoR. Yo
 - [Gizmos](https://github.com/sketchpunklabs/gizmos) : Library to create gizmos/widgets/manipulators for use in Threejs prototyping
 - [Threejs Starter](https://github.com/sketchpunk/threejs_starter) : Starting project for prototyping things using threejs
 - [Mapping & Terrains](https://github.com/sketchpunklabs/mapping) : Repo containing various prototypes on 3d mapping tiles & procedurally generated terrains
-- [Irregular Grids](https://github.com/sketchpunklabs/irregular_grid) : Repto containing prototypes related to irregular grids & procedurally generating content with them.
-- [Game Physics](https://github.com/sketchpunklabs/gamephysics) : Prototyping basic ridgid body & collision detections
+- [Irregular Grids](https://github.com/sketchpunklabs/irregular_grid) : Repo containing prototypes related to irregular grids & procedurally generating content with them.
+- [Game Physics](https://github.com/sketchpunklabs/gamephysics) : Prototyping basic rigidbody & collision detections
 - [Baller XR](https://github.com/sketchpunklabs/ballerxr) : Creating an experience of driving fortnite's baller vehicle on a 3D map rendering of hyrule from zelda's breath of the wild game. All this to run in web VR on the Oculus Quest 2.
 
 ### Projects in Hiatus : 
