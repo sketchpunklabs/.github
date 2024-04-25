@@ -21,6 +21,8 @@ A solo player born with the name Pedro but known to most of the world as VoR. Yo
 
 ### Active Projects : 
 - [Ossos](https://github.com/sketchpunklabs/ossos) : Character animation library to create IK Rigs for use on the web
+- [Auto Skinning](https://github.com/sketchpunklabs/autoskinning) : Prototyping auto skinning a mesh using the GPU & compute shaders
+- [Oito](https://github.com/sketchpunklabs/oito) : Creating a math library for all my 3D Programming needs, including curves & procedural mesh gen
 - [GLTF2 Parser](https://github.com/sketchpunklabs/gltf2parser) : Library that focuses on piecemeal loading of GLTF content
 - [Gizmos](https://github.com/sketchpunklabs/gizmos) : Library to create gizmos/widgets/manipulators for use in Threejs prototyping
 - [Threejs Starter](https://github.com/sketchpunk/threejs_starter) : Starting project for prototyping things using threejs
